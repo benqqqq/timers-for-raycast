@@ -43,6 +43,12 @@
       "mode": "no-view"
     },
     {
+      "name": "start20MinuteTimer",
+      "title": "Start 20 Minute Timer",
+      "description": "Set a countdown for 20 minutes.",
+      "mode": "no-view"
+    },
+    {
       "name": "start25MinuteTimer",
       "title": "Start 25 Minute Timer",
       "description": "Set a countdown for 25 minutes.",
